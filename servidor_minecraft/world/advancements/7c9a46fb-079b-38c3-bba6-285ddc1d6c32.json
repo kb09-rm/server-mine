@@ -465,6 +465,7 @@
     "criteria": {
       "wythers:autumnal_flower_forest": "2025-03-14 14:21:20 +0000",
       "wythers:sakura_forest": "2025-03-17 19:51:24 +0000",
+      "wythers:forest_edge": "2025-03-18 23:27:04 +0000",
       "wythers:boreal_forest_yellow": "2025-03-14 14:28:28 +0000",
       "wythers:marsh": "2025-03-14 16:17:02 +0000",
       "wythers:snowy_fen": "2025-03-17 19:19:57 +0000",
@@ -1769,6 +1770,78 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-18 23:30:27 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-18 23:30:27 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-18 23:30:27 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-18 23:30:27 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-18 23:30:27 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-18 23:30:27 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-18 23:30:27 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-18 23:30:27 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-18 23:30:27 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-18 23:30:27 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-18 23:30:27 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-18 23:30:27 +0000"
+    },
+    "done": false
+  },
   "create:wrench_goggles": {
     "criteria": {
       "0": "2025-03-18 23:09:56 +0000"
@@ -1784,6 +1857,12 @@
   "new_slab_variants:recipes/building_blocks/light_gray_wool_slab": {
     "criteria": {
       "has_light_gray_wool": "2025-03-18 22:48:48 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/capturing": {
+    "criteria": {
+      "egg": "2025-03-18 23:28:18 +0000"
     },
     "done": true
   },
