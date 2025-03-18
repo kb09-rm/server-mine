@@ -467,6 +467,7 @@
       "wythers:marsh": "2025-03-14 16:17:18 +0000",
       "wythers:thermal_taiga": "2025-03-14 16:27:32 +0000",
       "wythers:gravelly_river": "2025-03-16 17:26:39 +0000",
+      "wythers:gravelly_beach": "2025-03-18 22:49:01 +0000",
       "wythers:thermal_taiga_crags": "2025-03-16 19:03:46 +0000",
       "wythers:boreal_forest_red": "2025-03-15 17:10:11 +0000",
       "wythers:cold_plains": "2025-03-14 16:02:32 +0000",
@@ -717,9 +718,11 @@
       "minecraft:slime": "2025-03-14 16:41:37 +0000",
       "minecraft:witch": "2025-03-14 16:20:06 +0000",
       "minecraft:husk": "2025-03-14 16:38:28 +0000",
+      "minecraft:piglin": "2025-03-18 22:56:07 +0000",
       "minecraft:enderman": "2025-03-17 22:08:47 +0000",
       "minecraft:vex": "2025-03-16 18:37:29 +0000",
       "minecraft:zombie": "2025-03-14 16:02:59 +0000",
+      "quark:foxhound": "2025-03-18 22:58:55 +0000",
       "minecraft:zombie_villager": "2025-03-14 16:27:26 +0000"
     },
     "done": false
@@ -1295,15 +1298,141 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-18 23:03:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-18 23:03:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-18 23:03:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-18 23:03:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-18 23:03:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-18 23:03:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-18 23:03:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-18 23:03:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-18 23:03:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-18 23:03:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-18 23:03:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-18 23:03:26 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-03-18 22:52:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-03-18 22:52:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-03-18 22:52:08 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/sandstone": {
     "criteria": {
       "has_planks": "2025-03-18 22:48:00 +0000"
     },
     "done": true
   },
+  "incendium:toxic_heap/root": {
+    "criteria": {
+      "requirement": "2025-03-18 22:57:30 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/magma_block_slab": {
     "criteria": {
       "has_magma_block": "2025-03-18 22:37:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-03-18 22:52:08 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/epic": {
+    "criteria": {
+      "sword": "2025-03-18 22:57:07 +0000"
+    },
+    "done": true
+  },
+  "bygonenether:root": {
+    "criteria": {
+      "entered_nether": "2025-03-18 22:52:08 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:toxic_heap": "2025-03-18 22:57:30 +0000"
+    },
+    "done": false
+  },
+  "new_slab_variants:recipes/building_blocks/netherrack_slab": {
+    "criteria": {
+      "has_netherrack": "2025-03-18 22:53:29 +0000"
     },
     "done": true
   },

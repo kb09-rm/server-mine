@@ -3159,3 +3159,23 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [18Mar2025 22:52:08.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Incendium]
 [18Mar2025 22:52:08.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [We Need to Go Deeper]
 [18Mar2025 22:52:11.121] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2211ms or 44 ticks behind
+[18Mar2025 22:53:57.964] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/35801, l='ServerLevel[world]', x=-483.43, y=-20.00, z=-336.82] died: Toxic Slime was killed
+[18Mar2025 22:54:49.964] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/36390, l='ServerLevel[world]', x=-487.69, y=-20.00, z=-359.00] died: Toxic Slime was killed
+[18Mar2025 22:55:20.964] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/36150, l='ServerLevel[world]', x=-574.64, y=-20.00, z=-227.67] died: Toxic Slime was killed
+[18Mar2025 22:56:58.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[18Mar2025 22:57:07.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Epic!]
+[18Mar2025 22:57:30.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Radioactive]
+[18Mar2025 22:58:21.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set own game mode to Spectator Mode]
+[18Mar2025 22:58:35.963] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/37429, l='ServerLevel[world]', x=-476.74, y=-20.00, z=-234.74] died: Toxic Slime was killed
+[18Mar2025 22:59:39.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set own game mode to Survival Mode]
+[18Mar2025 23:00:23.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[18Mar2025 23:00:29.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 was slain by Nether Wastes Enderman
+[18Mar2025 23:00:29.491] [Server thread/INFO] [tombstone/]: The player myser444 has successfully been saved
+[18Mar2025 23:00:44.901] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/38205, l='ServerLevel[world]', x=-4062.65, y=79.00, z=-2613.09] died: Honeyed Archer was slain by joselete123
+[18Mar2025 23:01:10.307] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[18Mar2025 23:01:38.038] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/41933, l='ServerLevel[world]', x=-447.24, y=-20.00, z=-134.85] died: Toxic Slime was killed
+[18Mar2025 23:02:05.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 fell from a high place
+[18Mar2025 23:02:05.620] [Server thread/INFO] [tombstone/]: The player myser444 has successfully been saved
+[18Mar2025 23:02:18.496] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[18Mar2025 23:02:32.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[18Mar2025 23:03:00.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
