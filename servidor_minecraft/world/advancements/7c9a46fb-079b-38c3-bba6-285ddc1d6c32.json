@@ -1769,6 +1769,12 @@
     },
     "done": true
   },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-03-18 23:09:56 +0000"
+    },
+    "done": false
+  },
   "new_slab_variants:recipes/building_blocks/black_wool_slab": {
     "criteria": {
       "has_black_wool": "2025-03-18 22:48:45 +0000"

@@ -3179,3 +3179,21 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [18Mar2025 23:02:18.496] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
 [18Mar2025 23:02:32.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
 [18Mar2025 23:03:00.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[18Mar2025 23:04:24.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Nightmare Fuel]
+[18Mar2025 23:04:28.130] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/43303, l='ServerLevel[world]', x=-532.76, y=40.13, z=-118.75] died: Toxic Slime blew up
+[18Mar2025 23:05:27.607] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/44687, l='ServerLevel[world]', x=-527.23, y=42.00, z=-126.90] died: Toxic Slime was slain by myser444
+[18Mar2025 23:06:23.581] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/44733, l='ServerLevel[world]', x=-499.24, y=35.90, z=-118.56] died: Toxic Slime blew up
+[18Mar2025 23:06:40.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[18Mar2025 23:07:04.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[18Mar2025 23:09:49.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[18Mar2025 23:10:07.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[18Mar2025 23:11:13.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[18Mar2025 23:11:15.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[18Mar2025 23:16:11.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[18Mar2025 23:16:27.487] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: myser444 lost connection: Disconnected
+[18Mar2025 23:16:27.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 left the game
+[18Mar2025 23:17:37.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[18Mar2025 23:20:47.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[18Mar2025 23:21:00.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[18Mar2025 23:22:02.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Sweet Dreams]
+[18Mar2025 23:23:45.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
