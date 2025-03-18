@@ -3139,3 +3139,10 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [18Mar2025 22:30:22.522] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7362ms or 147 ticks behind
 [18Mar2025 22:30:25.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joselete123> gatos
 [18Mar2025 22:30:33.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <myser444> pelliskito potente cuñao
+[18Mar2025 22:32:19.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joselete123> sergio
+[18Mar2025 22:33:25.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[18Mar2025 22:33:59.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[18Mar2025 22:34:04.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[18Mar2025 22:38:06.153] [Server thread/INFO] [net.Pandarix.bushierflowers.BushierFlowers/]: Mixin loaded
+[18Mar2025 22:38:34.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[18Mar2025 22:38:48.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
