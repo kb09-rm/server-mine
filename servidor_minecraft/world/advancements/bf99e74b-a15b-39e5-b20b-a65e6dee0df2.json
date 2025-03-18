@@ -1295,6 +1295,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/sandstone": {
+    "criteria": {
+      "has_planks": "2025-03-18 22:48:00 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/magma_block_slab": {
     "criteria": {
       "has_magma_block": "2025-03-18 22:37:51 +0000"

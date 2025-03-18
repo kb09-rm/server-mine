@@ -3146,3 +3146,16 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [18Mar2025 22:38:06.153] [Server thread/INFO] [net.Pandarix.bushierflowers.BushierFlowers/]: Mixin loaded
 [18Mar2025 22:38:34.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
 [18Mar2025 22:38:48.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[18Mar2025 22:43:55.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[18Mar2025 22:45:07.321] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[18Mar2025 22:45:07.322] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[18Mar2025 22:45:30.384] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/29379, l='ServerLevel[world]', x=-4057.61, y=56.90, z=-2594.09] died, message: 'Fisherman suffocated in a wall'
+[18Mar2025 22:47:24.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[18Mar2025 22:48:34.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <myser444> 7time set day
+[18Mar2025 22:49:26.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 1000]
+[18Mar2025 22:49:42.961] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Major Thomas'/33757, l='ServerLevel[world]', x=-2618.73, y=75.00, z=-1527.32] died: Major Thomas was slain by carloselpillo
+[18Mar2025 22:49:59.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[18Mar2025 22:52:08.896] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[18Mar2025 22:52:08.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Incendium]
+[18Mar2025 22:52:08.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [We Need to Go Deeper]
+[18Mar2025 22:52:11.121] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2211ms or 44 ticks behind
