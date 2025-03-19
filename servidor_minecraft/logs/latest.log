@@ -3176,3 +3176,7 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [19Mar2025 22:17:26.818] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
 [19Mar2025 22:17:26.818] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
 [19Mar2025 22:17:33.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 1000]
+[19Mar2025 22:38:44.348] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=303, y=133, z=-603} BlockPos{x=302, y=131, z=-604}
+[19Mar2025 22:38:44.395] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=303, y=133, z=-603} BlockPos{x=302, y=131, z=-604}
+[19Mar2025 22:38:44.446] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=303, y=133, z=-603} BlockPos{x=302, y=131, z=-604}
+[19Mar2025 22:38:44.499] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=301, y=133, z=-603} BlockPos{x=302, y=131, z=-604}
