@@ -1299,24 +1299,17 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/crimson_mosquito": {
+  "new_slab_variants:recipes/building_blocks/magma_block_slab": {
     "criteria": {
-      "killed_by": "2025-03-18 23:04:24 +0000"
+      "has_magma_block": "2025-03-18 22:37:51 +0000"
     },
     "done": true
   },
-  "new_slab_variants:recipes/building_blocks/shroomlight_slab": {
+  "mcwroofs:recipes/sandstone": {
     "criteria": {
-      "has_shroomlight": "2025-03-18 23:03:48 +0000"
+      "has_planks": "2025-03-18 22:48:00 +0000"
     },
     "done": true
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:crimson_forest": "2025-03-18 23:03:29 +0000",
-      "minecraft:nether_wastes": "2025-03-18 22:52:11 +0000"
-    },
-    "done": false
   },
   "incendium:root": {
     "criteria": {
@@ -1330,6 +1323,49 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-03-18 22:52:08 +0000"
+    },
+    "done": true
+  },
+  "bygonenether:root": {
+    "criteria": {
+      "entered_nether": "2025-03-18 22:52:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-03-18 23:03:29 +0000",
+      "minecraft:nether_wastes": "2025-03-18 22:52:11 +0000"
+    },
+    "done": false
+  },
+  "new_slab_variants:recipes/building_blocks/netherrack_slab": {
+    "criteria": {
+      "has_netherrack": "2025-03-18 22:53:29 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/epic": {
+    "criteria": {
+      "sword": "2025-03-18 22:57:07 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/root": {
+    "criteria": {
+      "requirement": "2025-03-18 22:57:30 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:toxic_heap": "2025-03-18 22:57:30 +0000"
+    },
+    "done": false
+  },
   "new_slab_variants:recipes/building_blocks/nether_wart_block_slab": {
     "criteria": {
       "has_nether_wart_block": "2025-03-18 23:03:33 +0000"
@@ -1342,51 +1378,21 @@
     },
     "done": true
   },
-  "mcwroofs:recipes/sandstone": {
+  "new_slab_variants:recipes/building_blocks/shroomlight_slab": {
     "criteria": {
-      "has_planks": "2025-03-18 22:48:00 +0000"
+      "has_shroomlight": "2025-03-18 23:03:48 +0000"
     },
     "done": true
   },
-  "incendium:toxic_heap/root": {
+  "alexsmobs:alexsmobs/crimson_mosquito": {
     "criteria": {
-      "requirement": "2025-03-18 22:57:30 +0000"
+      "killed_by": "2025-03-18 23:04:24 +0000"
     },
     "done": true
   },
-  "new_slab_variants:recipes/building_blocks/magma_block_slab": {
+  "new_slab_variants:recipes/building_blocks/iron_block_slab": {
     "criteria": {
-      "has_magma_block": "2025-03-18 22:37:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2025-03-18 22:52:08 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:affix/epic": {
-    "criteria": {
-      "sword": "2025-03-18 22:57:07 +0000"
-    },
-    "done": true
-  },
-  "bygonenether:root": {
-    "criteria": {
-      "entered_nether": "2025-03-18 22:52:08 +0000"
-    },
-    "done": true
-  },
-  "incendium:misc/soul_searcher": {
-    "criteria": {
-      "incendium:toxic_heap": "2025-03-18 22:57:30 +0000"
-    },
-    "done": false
-  },
-  "new_slab_variants:recipes/building_blocks/netherrack_slab": {
-    "criteria": {
-      "has_netherrack": "2025-03-18 22:53:29 +0000"
+      "has_iron_block": "2025-03-19 22:10:25 +0000"
     },
     "done": true
   },
