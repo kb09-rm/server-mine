@@ -3183,3 +3183,9 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [19Mar2025 22:41:16.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [What a Deal!]
 [19Mar2025 22:49:14.454] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Xandra the Happiness Advocate'/29591, l='ServerLevel[world]', x=334.44, y=129.06, z=-533.57] died: Xandra the Happiness Advocate was slain by carloselpillo
 [19Mar2025 22:50:41.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 1000]
+[19Mar2025 23:00:57.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to myser444]
+[19Mar2025 23:02:37.887] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[19Mar2025 23:03:57.231] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carloselpillo lost connection: Disconnected
+[19Mar2025 23:03:57.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo left the game
+[19Mar2025 23:06:41.019] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: myser444 lost connection: Disconnected
+[19Mar2025 23:06:41.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 left the game
