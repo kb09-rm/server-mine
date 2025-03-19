@@ -1390,6 +1390,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-03-19 22:41:16 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/iron_block_slab": {
     "criteria": {
       "has_iron_block": "2025-03-19 22:10:25 +0000"
