@@ -3155,3 +3155,23 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [20Mar2025 22:55:36.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the weather to clear]
 [20Mar2025 22:58:09.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to joselete123]
 [20Mar2025 22:58:36.951] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[20Mar2025 22:58:55.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to joselete123]
+[20Mar2025 22:58:59.664] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3904ms or 78 ticks behind
+[20Mar2025 22:59:50.481] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Donna the Shiny'/8200, l='ServerLevel[world]', x=-216.32, y=94.00, z=-257.54] died: Donna the Shiny was killed by myser444 using [Skyfall]
+[20Mar2025 23:01:08.183] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-271, y=100, z=-282} BlockPos{x=-299, y=79, z=-277}
+[20Mar2025 23:01:08.233] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-271, y=100, z=-282} BlockPos{x=-299, y=79, z=-277}
+[20Mar2025 23:01:08.283] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-271, y=100, z=-282} BlockPos{x=-299, y=79, z=-277}
+[20Mar2025 23:03:47.107] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
+[20Mar2025 23:05:55.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 was slain by Count Victor the Ogre Slayer
+[20Mar2025 23:05:55.786] [Server thread/INFO] [tombstone/]: The player myser444 has successfully been saved
+[20Mar2025 23:06:35.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 was slain by Count Victor the Ogre Slayer
+[20Mar2025 23:06:36.000] [Server thread/INFO] [tombstone/]: The player myser444 has successfully been saved
+[20Mar2025 23:07:07.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 was doomed to fall by Count Victor the Ogre Slayer
+[20Mar2025 23:07:07.795] [Server thread/INFO] [tombstone/]: The player myser444 has successfully been saved
+[20Mar2025 23:07:35.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to joselete123]
+[20Mar2025 23:08:39.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Splintering II]
+[20Mar2025 23:09:26.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to joselete123]
+[20Mar2025 23:09:49.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to myser444]
+[20Mar2025 23:14:01.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to myser444]
+[20Mar2025 23:15:11.185] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Roland the Sneaky'/17936, l='ServerLevel[world]', x=-4118.90, y=-33.00, z=-2597.30] died: Roland the Sneaky was slain by joselete123
+[20Mar2025 23:17:49.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to joselete123]
