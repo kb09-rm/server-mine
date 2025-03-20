@@ -721,8 +721,10 @@
       "minecraft:witch": "2025-03-14 16:20:06 +0000",
       "minecraft:wither_skeleton": "2025-03-20 22:59:50 +0000",
       "minecraft:husk": "2025-03-14 16:38:28 +0000",
+      "minecraft:cave_spider": "2025-03-20 23:18:11 +0000",
       "minecraft:piglin": "2025-03-18 22:56:07 +0000",
       "minecraft:enderman": "2025-03-17 22:08:47 +0000",
+      "minecraft:silverfish": "2025-03-20 23:24:04 +0000",
       "minecraft:vex": "2025-03-16 18:37:29 +0000",
       "minecraft:zombie": "2025-03-14 16:02:59 +0000",
       "quark:foxhound": "2025-03-18 22:58:55 +0000",
@@ -1404,6 +1406,85 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-20 23:28:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-20 23:28:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-20 23:28:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-03-20 23:28:45 +0000",
+      "log_spam_fixer": "2025-03-20 23:28:19 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-20 23:28:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-20 23:28:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-20 23:28:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-20 23:28:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-20 23:28:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-20 23:28:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-20 23:28:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-20 23:28:19 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-03-20 23:23:56 +0000"
+    },
+    "done": true
+  },
   "beautify:lamp_jar": {
     "criteria": {
       "requirement": "2025-03-20 23:02:27 +0000"
@@ -1413,6 +1494,12 @@
   "iceandfire:iceandfire/dragonbone_tool": {
     "criteria": {
       "tool": "2025-03-20 23:08:39 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/crying_obsidian_slab": {
+    "criteria": {
+      "has_crying_obsidian": "2025-03-20 23:23:56 +0000"
     },
     "done": true
   },

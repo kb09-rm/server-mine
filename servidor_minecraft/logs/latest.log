@@ -3175,3 +3175,10 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [20Mar2025 23:14:01.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to myser444]
 [20Mar2025 23:15:11.185] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Roland the Sneaky'/17936, l='ServerLevel[world]', x=-4118.90, y=-33.00, z=-2597.30] died: Roland the Sneaky was slain by joselete123
 [20Mar2025 23:17:49.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to joselete123]
+[20Mar2025 23:19:29.143] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2484ms or 49 ticks behind
+[20Mar2025 23:21:48.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[20Mar2025 23:23:19.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Viewing items]
+[20Mar2025 23:23:56.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Who is Cutting Onions?]
+[20Mar2025 23:24:29.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Pic-A-Nic Basket?]
+[20Mar2025 23:29:02.735] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: myser444 lost connection: Disconnected
+[20Mar2025 23:29:02.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 left the game
