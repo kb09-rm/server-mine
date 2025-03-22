@@ -3144,3 +3144,6 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [22Mar2025 14:47:23.725] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
 [22Mar2025 14:47:29.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Easter Egg Searcher]
 [22Mar2025 14:50:45.555] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[22Mar2025 14:54:56.382] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[22Mar2025 15:10:44.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 fell from a high place
+[22Mar2025 15:10:44.207] [Server thread/INFO] [tombstone/]: The player joselete123 has successfully been saved
