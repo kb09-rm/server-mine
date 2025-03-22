@@ -3147,3 +3147,28 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [22Mar2025 14:54:56.382] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
 [22Mar2025 15:10:44.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 fell from a high place
 [22Mar2025 15:10:44.207] [Server thread/INFO] [tombstone/]: The player joselete123 has successfully been saved
+[22Mar2025 15:11:58.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set own game mode to Spectator Mode]
+[22Mar2025 15:12:13.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set own game mode to Survival Mode]
+[22Mar2025 15:12:14.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has reached the goal [Piglin Pillage]
+[22Mar2025 15:13:53.534] [Worker-Main-30/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/9234, l='ServerLevel[world]', x=-971.00, y=31.00, z=-483.00] as it would cause deadlock
+[22Mar2025 15:14:07.799] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/9317, l='ServerLevel[world]', x=-1127.50, y=41.00, z=-584.50] as it would cause deadlock
+[22Mar2025 15:14:11.961] [Worker-Main-6/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity WitherSkeletonHorse['Wither Skeleton Horse'/9341, l='ServerLevel[world]', x=-1120.00, y=38.00, z=-596.00] as it would cause deadlock
+[22Mar2025 15:14:12.024] [Worker-Main-6/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity WitherSkeletonHorse['Wither Skeleton Horse'/9343, l='ServerLevel[world]', x=-1126.00, y=38.00, z=-596.00] as it would cause deadlock
+[22Mar2025 15:15:58.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set own game mode to Spectator Mode]
+[22Mar2025 15:16:00.052] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity WitherSkeletonHorse['Wither Skeleton Horse'/9909, l='ServerLevel[world]', x=-1292.00, y=38.00, z=-582.00] as it would cause deadlock
+[22Mar2025 15:16:00.125] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity WitherSkeletonHorse['Wither Skeleton Horse'/9911, l='ServerLevel[world]', x=-1292.00, y=38.00, z=-576.00] as it would cause deadlock
+[22Mar2025 15:16:00.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Mind your Manors]
+[22Mar2025 15:16:09.411] [Worker-Main-30/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/9944, l='ServerLevel[world]', x=-1277.00, y=31.00, z=-759.00] as it would cause deadlock
+[22Mar2025 15:16:10.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set own game mode to Survival Mode]
+[22Mar2025 15:17:36.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 was slain by Piglin Brute
+[22Mar2025 15:17:36.486] [Server thread/INFO] [tombstone/]: The player joselete123 has successfully been saved
+[22Mar2025 15:18:03.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set own game mode to Creative Mode]
+[22Mar2025 15:18:29.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set own game mode to Survival Mode]
+[22Mar2025 15:18:53.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set own game mode to Creative Mode]
+[22Mar2025 15:19:01.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set own game mode to Survival Mode]
+[22Mar2025 15:20:08.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set own game mode to Creative Mode]
+[22Mar2025 15:20:13.711] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/10891, l='ServerLevel[world]', x=-493.74, y=-20.00, z=-277.08] died: Toxic Slime was killed
+[22Mar2025 15:20:13.712] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/10892, l='ServerLevel[world]', x=-415.45, y=-20.00, z=-301.47] died: Toxic Slime was killed
+[22Mar2025 15:20:14.711] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/10979, l='ServerLevel[world]', x=-447.79, y=-20.00, z=-373.74] died: Toxic Slime was killed
+[22Mar2025 15:20:19.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set own game mode to Survival Mode]
+[22Mar2025 15:20:44.230] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
