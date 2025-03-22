@@ -3172,3 +3172,9 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [22Mar2025 15:20:14.711] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/10979, l='ServerLevel[world]', x=-447.79, y=-20.00, z=-373.74] died: Toxic Slime was killed
 [22Mar2025 15:20:19.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set own game mode to Survival Mode]
 [22Mar2025 15:20:44.230] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[22Mar2025 15:26:36.633] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[22Mar2025 15:27:24.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [A Terrible Fortress]
+[22Mar2025 15:28:19.373] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Mar2025 15:28:34.040] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Withering Archer'/15195, l='ServerLevel[world]', x=-883.02, y=45.00, z=-630.65] died: Withering Archer was slain by joselete123
+[22Mar2025 15:28:54.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Into Fire]
+[22Mar2025 15:31:06.141] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Withering Archer'/15584, l='ServerLevel[world]', x=-811.67, y=81.00, z=-695.99] died: Withering Archer was slain by joselete123

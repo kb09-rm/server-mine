@@ -824,9 +824,11 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-03-16 02:45:12 +0000",
+      "minecraft:blaze": "2025-03-22 15:28:53 +0000",
       "minecraft:skeleton": "2025-03-14 15:07:47 +0000",
       "minecraft:hoglin": "2025-03-17 15:48:39 +0000",
       "minecraft:vindicator": "2025-03-16 18:24:19 +0000",
+      "minecraft:magma_cube": "2025-03-22 15:27:21 +0000",
       "minecraft:spider": "2025-03-14 16:02:17 +0000",
       "minecraft:piglin_brute": "2025-03-17 15:53:53 +0000",
       "minecraft:creeper": "2025-03-15 00:51:28 +0000",
@@ -1818,6 +1820,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-03-22 15:28:54 +0000"
+    },
+    "done": true
+  },
   "incendium:misc/loot_piglin_village": {
     "criteria": {
       "incendium:medium": "2025-03-22 15:12:14 +0000"
@@ -1836,11 +1844,23 @@
     },
     "done": true
   },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-03-22 15:27:11 +0000"
+    },
+    "done": true
+  },
   "bygonenether:explore_structures": {
     "criteria": {
       "in_piglin_manor": "2025-03-22 15:16:00 +0000"
     },
     "done": false
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-03-22 15:27:24 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
